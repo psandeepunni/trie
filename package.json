@@ -1,6 +1,6 @@
 {
   "name": "triejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A node module with a simple trie implementation, support for insert and search functions",
   "main": "trie.js",
   "scripts": {
