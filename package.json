@@ -1,6 +1,6 @@
 {
   "name": "trie-data-structure",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A node module with a simple trie data structure, support for insert and search functions",
   "main": "trie.js",
   "scripts": {
