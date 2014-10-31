@@ -1,11 +1,11 @@
-Trie
-====
+trieJS
+======
 
 Trie implementation in javascript, with insert and search functions
 
 ## Installation
 
-  npm install trie --save
+  npm install trieJS --save
 
 ## Usage
 
@@ -27,4 +27,4 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Release History
 
-* 1.0.0 Initial release
+* 1.0.1 Initial release
