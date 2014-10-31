@@ -5,7 +5,7 @@ Trie implementation in javascript, with insert and search functions
 
 ## Installation
 
-  npm install trieJS --save
+  npm install trie-data-structure --save
 
 ## Usage
 
